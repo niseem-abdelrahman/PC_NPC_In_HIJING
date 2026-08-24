@@ -23,7 +23,7 @@ This framework utilizes `CMake` to bind the original Fortran HIJING generators w
 * The CMake configuration (`CMakeLists.txt`) natively handles the cross-language compilation, linking the `gfortran` compiler outputs with C++17 and ROOT libraries to produce a single unified executable (`HIJrun`).
 
 ## Citation Request
-If you utilize this modified C++ framework or the integrated EMPC correlation algorithms in your research, please ensure you cite the original author and the foundational paper:
+If you utilize this modified C++ framework or the integrated EMPC algorithms in your research, please ensure you cite the original author and the foundational paper:
 > *Niseem Magdy, 
 > *[e-Print: 2405.19169]*
 
